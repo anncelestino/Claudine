@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#006a81"
+backgroundColor="#ffffff"
+secondaryBackgroundColor="#b6dcd2"
+textColor="#020202"
+font = "Egyptian 505 Regular"
